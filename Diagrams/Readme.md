@@ -1,1 +1,1 @@
-Repository to save explicative diagrmas, pictures, and other imformation about the project
+Repository to save explicative diagrams, pictures, and other imformation about the project
